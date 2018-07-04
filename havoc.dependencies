@@ -1,0 +1,32 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "LMMFHHO/device_xiaomi_msm8998-common",
+    "target_path": "device/xiaomi/msm8998-common",
+    "branch":      "treble"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Demon000/kernel_xiaomi_msm8998",
+    "target_path": "kernel/xiaomi/msm8998",
+    "branch":      "treble"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LMFFHHO/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "treble"
+  },
+  {
+    "remote":      "los",
+    "repository":  "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LMMFHHO/XiaomiCustom",
+    "target_path": "vendor/XiaomiCustom",
+    "branch":      "oreo"
+  }
+]
