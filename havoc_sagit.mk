@@ -1,4 +1,4 @@
-$(call inherit-product, device/xiaomi/sagit/full_sagit.mk)
+$(call inherit-product, device/xiaomi/sagit/device.mk)
 
 # Inherit some common HavocOS stuff.
 $(call inherit-product, vendor/havoc/config/common.mk)
