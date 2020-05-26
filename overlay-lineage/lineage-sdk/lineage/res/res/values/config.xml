@@ -22,10 +22,10 @@
          app, they can be remapped here. The format is
          "oldname:newname", one per entry. -->
     <string-array name="config_displayModeMappings" translatable="false">
-        <item>00default:standard</item>
-        <item>01warm:reading</item>
-        <item>02cool:dynamic</item>
-        <item>37sRGB-native:srgb</item>
+        <item>default4-default:basic</item>
+        <item>cool:dynamic</item>
+        <item>warm:reading</item>
+        <item>03-sRGB:srgb</item>
     </string-array>
 
     <!-- Default value for proximity check on screen wake
