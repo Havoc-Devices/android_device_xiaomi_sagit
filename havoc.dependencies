@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "device_xiaomi_sagit_msm8998-common",
+    "target_path": "device/xiaomi/msm8998-common"
+  },
+  {
+    "repository": "kernel_xiaomi_sagit_msm8998",
+    "target_path": "kernel/xiaomi/msm8998"
+  },
+  {
+    "repository": "vendor_xiaomi_sagit",
+    "target_path": "vendor_xiaomi"
+  },
+  {
+    "repository": "vendor_sagit_miuicamera",
+    "target_path": "vendor/miuicamera"
+  }
+]
