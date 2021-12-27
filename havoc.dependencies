@@ -9,7 +9,7 @@
   },
   {
     "repository": "vendor_xiaomi_sagit",
-    "target_path": "vendor_xiaomi"
+    "target_path": "vendor/xiaomi"
   },
   {
     "repository": "vendor_sagit_miuicamera",
